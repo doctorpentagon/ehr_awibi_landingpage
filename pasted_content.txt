@@ -1,0 +1,351 @@
+ENSURE THINGS THAT RESEARCHERS AND BEST DEV HAVE SAID ITS GOOD PRACTICE TO DEVELOPMENT E.G. GOOD SCROLLING E.T.C
+Do elaborate test and run it and thoroughly review based on all the figmas and everything, review indepth and ensure its perfect and best and good before sending the zip file.
+LETS BUILD A BETTER BIG TECH COMPANY FOR HEALTH DEV TEAM BEST PROJECT!!
+-------------------------
+THE LANDING PAGE CONTENT
+--------------------
+NB: anything in bracket is my explanations and comment
+
+Font family: Inter
+ensure font sizing according general standard font sizing and critically based on the figma and also necessary line height as necessary and critically evaluated
+
+Make the logo of the project(in the browser tab) be awibiehr logo
+most of the project is centralized with a utility central width and good layout
+a lot of things in the project have pink blue gradient
+ensure good and critical font sizing, padding in a button and font color and critical information detection of the figma images as much as possible
+headers(nav) and footers will be consistent across the landing pages and the page on click/active at the moment will be blue color text at the header(nav)
+
+to under the landing page figma image - is in 7 images(landing page 1.png, landing page 2.png, landing page 3.png, landing page 4.png, landing page 5.png, landing page 6.png, landing page 7.png)  and layered in a vertical to bottom on each other
+
+header(with a highlight of the particular active page_ and footer must be in all pages, 
+-------
+LANDING PAGE
+
+1. HOMEPAGE
+
+awibiehr logo (logo dark.png)
+
+Navigation:
+Home
+About us (no need of there to be about us nav or page again)
+Pricing
+Features
+Download
+Contact Us (this is not in the figma, but the nav needs to be there and its page)
+Get started (in blue background moderate round rectangle)
+
+-------
+Hero section:
+Simplify HealthCare Records. Empower Medical Teams
+
+All-in- one EHR system to manage patient data, Appointments, Prescriptions, and Billing 
+
+Get started for free
+Schedule a Demo + icon1
+
+Image 1.png (also all centralize)
+
+-------
+Who is it for section:
+
+Who is it for?
+Built for Every Level of Healthcare
+Whether you manage a hospital, run a diagnostic lab, or consult as a healthcare professional — Awibi EHR is built to fit your workflow and simplify your records.
+
+(cards)
+icon 2
+Hospitals & Clinics
+Manage inpatient and outpatient care with seamless coordination between your doctors, nurses, labs, and finance officers.
+
+icon3
+Individual Health Professionals
+Whether you run a private practice or freelance across clinics, Awibi lets you record consultations, access past history, and generate PDF reports anytime, anywhere.
+
+icon4
+Labs & Imaging Centers
+Enter and share lab results directly with hospitals and patients. Each center gets a unique dashboard and tracking system.
+
+Choose Your Role & Get Started
+
+---------------
+Features Section(2 column thing):
+
+(left column)
+Features
+Powerful Features. 
+Built for Everyday Care.
+From your first patient entry to lab results and secure reports, Awibi EHR delivers the essential tools you need — all in one place, easy to use, and ready to scale with you.
+Try AWIBI EHR for free
+
+(right column has 4 cards, the arrangement and positioning here needs thorough evaluation efficiency and perfect)
+icon5
+Patient Management
+Track, update, and access patient records anytime.
+
+icon6
+Smart Consultation
+Type, upload, or speak — whichever works for you.
+
+icon7
+Lab & Test Integration
+Seamless upload and sharing of diagnostic results.
+
+icon8
+Secure Health Reports
+One-click export and safe sharing with other providers.
+
+-----
+Pricing Section:
+Pricing and Plans
+No Pressure Pricing For Every Provider
+We give you full access to essential features at zero cost. When you're ready, choose a plan that fits your team — no lock-ins, no surprises.
+Monthly Yearly (a switch to Monthly or Yearly switch on and off format)
+Hospital Laboratory Professional (a switch between the 3 settings format)
+
+(4 cards;; ensure the switching of pricing will determine the cards that will highlight or hover like, it is more of using a data structure that the right month, hospital e.t.c switch to the right pricing content e.g. object in arrays or arrays in object structure thingy, ensure to critically view the figma and thoroughly design everything exactly as it is)
+
+(card 1)
+Free Trial for one month
+N0/mo
+What’s included
+(icon 9) 10 staffs
+(icon 9)40 Patients
+(icon 9)5 Department
+(icon 9)100 appointments
+Get Started (icon 10)
+
+(card 2)
+Basic Package
+N78,500/mo
+What’s included
+(icon 9)100 staffs
+(icon 9)300 Patients
+(icon 9)10 Department
+(icon 9)500 appointments
+Get Started (icon 10)
+
+Standard Package
+N314,400/mo
+What’s included
+(icon 9)200 staffs
+(icon 9)500 Patients
+(icon 9)20 Department
+(icon 9)1000 appointments
+Get Started (icon 10)
+
+Premium Package
+N785,000/mo
+What’s included
+(icon 9)1000 staffs
+(icon 9)5000 Patients
+(icon 9)50 Department
+(icon 9)10,000 appointments 
+Get Started (icon 10)
+
+
+--
+TESTIMONIAL SECTION:
+Testimonials
+Trusted by Medical Professionals 
+From busy hospitals to private practices, Awibi EHR is helping healthcare teams work faster, smarter, and more securely every day.
+(4 column cards; please ensure the cards is a list or object kind of that have a arrow for left and right and can be clicked to animate and bring in further testimonials)
+
+(card 1)
+“Awibi saved our hospital 
+hours every week! Managing patients, staff, and records 
+has never been this smooth.”
+Dr. Kemi Adebayo
+Chief Medical Director, Lagos
+
+(card 2)
+“Awibi EHR helped us integrate our lab with the 
+hospital seamlessly. We now 
+deliver results in minutes 
+instead of hours.”
+Mrs. Jumoke Fashola
+Radiology Manager, Ibadan
+
+(card 3)
+“As a solo doctor, having all 
+my patient records and 
+consultation tools in one place has been a game-
+changer.”
+Dr. Florence Edet
+Family Physician, Calabar
+
+(card 4)
+“I was worried about 
+switching from paper, but 
+Awibi is so simple even our older staff picked it up 
+quickly.”
+Mr. Ayo Okonkwo
+Lab Technician, Enugu
+
+--
+FAQ SECTION:
+Frequently Asked Questions
+Got questions? We’ve answered the most common things our users ask — so you can start with confidence.
+
+(Accordions)
+Is patient data safe and secure on Awibi? (icon 11)
+
+(Opened Accordion)
+Do I need technical experience to use Awibi EHR? (icon 11 - in pink blue bg hover)
+(Answer)
+Not at all. Awibi is designed for everyday health professionals — with simple forms, guided flows, and support for uploads and voice input. If you can use WhatsApp, you can use Awibi.
+
+Can I access the platform on mobile devices? (icon 11)
+
+Does Awibi work offline or in low-network areas? (icon 11)
+
+------
+footer(4 column)
+
+(column 1)
+logo white.png
+At awibi, we believe africa deserves good and standard healthcare. let us be your  partner in healthcare innovation!
+
+
+(column 2)
+Quick Links
+Home
+About us 
+Features
+Pricing & Plans
+Privacy & Terms
+
+(column 3)
+Socials
+(linkedIn icon)
+(Twitter Icon)
+
+(column 4)
+Help
+Contact us 
+awibihealth@gmail.com
++2348078905396
+
+
+(that is all for the homepage of the landing page awibehr site)
+
+--
+PRICING PAGE(pricing.png):
+
+Logo + Navigation + Get Started (duplication from the landing page)
+
+(section)
+Pricing and Plans
+No Pressure Pricing For Every Provider
+We give you full access to essential features at zero cost. When you're ready, choose a plan that fits your team — no lock-ins, no surprises.
+
+(4 cards;; ensure the switching of pricing will determine the cards that will highlight or hover like, it is more of using a data structure that the right month, hospital e.t.c switch to the right pricing content e.g. object in arrays or arrays in object structure thingy, ensure to critically view the figma and thoroughly design everything exactly as it is)
+
+(card 1)
+Free Trial for one month
+N0/mo
+What’s included
+(icon 9) 10 staffs
+(icon 9)40 Patients
+(icon 9)5 Department
+(icon 9)100 appointments
+Get Started (icon 10)
+
+(card 2)
+Basic Package
+N78,500/mo
+What’s included
+(icon 9)100 staffs
+(icon 9)300 Patients
+(icon 9)10 Department
+(icon 9)500 appointments
+Get Started (icon 10)
+
+Standard Package
+N314,400/mo
+What’s included
+(icon 9)200 staffs
+(icon 9)500 Patients
+(icon 9)20 Department
+(icon 9)1000 appointments
+Get Started (icon 10)
+
+Premium Package
+N785,000/mo
+What’s included
+(icon 9)1000 staffs
+(icon 9)5000 Patients
+(icon 9)50 Department
+(icon 9)10,000 appointments 
+Get Started (icon 10)
+
+
+footer (duplication from the landing page)
+
+
+--
+CHECKOUT PAGE (pricing 2.png, this is not a page on itself on the landing page, but it is a page that will result when any pricing is selected. It is a form of a data structure(object in array or array in object) that will dynamically checkout the price clicked in the pricing page and accept payment, majorly the page has a form to pay manually but we want to include buttons (not in the figma) that illustrate pay with stripe and pay with remitta. at a point a message on 'Reach out on payment issues')
+
+(content in that checkout page)
+Payment for Basic Plan
+Pay With:
+Card (input type button) transfer (input type button)
+Card Number
+1234  5678  9101  1121
+Expiration Date
+CVV
+MM/YY
+123
+Save card details
+Proceed to Pay
+Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our privacy policy.
+
+(ALSO IF THERE IS A WAY TO ADD A FILL FOR A COUPON OR RELIEF)
+(ALSO REMEMBER THAT FREE TRIAL WITHOUT MONEY WILL ALSO CHECKOUT AND GET INTO THE SYSTEM WITH THE LIMITS AS NECESSARY)
+
+(footer)
+
+---
+CONTACT US PAGE(contact us.png, review the figma design thoroughly, and the arrangement is thoroughly arranged layout as in the figma):
+
+(In the dark blue background section)
+Logo white.png			Contact Us
+
+
+(In the white background 2 column section)
+(column 1)
+Let's talk
+Questions, comments, or suggestions? Simply 
+fill in the form and we’ll be in touch shortly.
+(icon 13) +2348078905396
+(icon 13) awibihealth@gmail.com
+
+
+(column 2, contact us form)
+First Name
+First name(placeholder)
+Last Name
+Last name (placeholder)
+Email
+Email (placeholder)
+Phone Number
+Phone number (placeholder)
+Your Message
+Your message (placeholder)
+Submit
+
+(footer)
+-----------
+
+DOWNLOAD PAGE(download page.png, its content is centralized. also remember all pages with the header: logo + nav + Get Started)
+
+Download app
+Download Awibi EHR and Simplify Patient Care
+Smart, secure, and optimized for doctors, nurses, and hospital admins. Start managing health records with confidence — anytime, anywhere.
+
+icon 14  icon 15 (2 flex side by side)
+
+(then footer)
+
+--------------
+
+(NB: THE WAY THE PRICING AND PAYMENT IS LIKED TO THE MAIN BUILT EHR SYSTEM BY ANOTHER DEV IS THAT, A SUCCESSFULLY ACKNOWLEDGED SUBSCRIPTION WILL LEAD TO AN ACCESS OR THE SYSTEM OR API ENDPOINT THAT IS BASED ON USING OUR EHR SYSTEM ONLY THROUGH THAT PAYMENT ALONE)
